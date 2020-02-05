@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+
+.groups {
+  display: flex;
+  flex-direction: column;
+}
+
+.items {
+  padding:1em;
+}
+
+.amount {
+  padding:1em;
+}
+
+
+.remove {
+  display:none;
+}
+
+
+.amountOf,
+.nameOf {
+  border:2px solid salmon;
+}
+
+
+
